@@ -9,7 +9,7 @@ local MainTab = Window:MakeTab({
 })
 
 
-_G.Key = "8477373739373h4hrhr"
+_G.Key = "niggerballs123"
 _G.KeyInput = "string"
 
 function BloodBath()
